@@ -1,28 +1,28 @@
-# majuhyun
+# 👨‍💻 마주현 (Ju-hyun Ma)
 
-## 👋 안녕하세요, 프론트엔드 개발자 마주현입니다!
+> **안녕하세요! 사용자 경험(UX)을 가장 중요하게 여기며 주도적으로 성장하는 프론트엔드 개발자 마주현입니다.** 👋
 
-<p align="left">
-  <img src="https://komarev.com" width="120" />
-</p>
+---
 
-## 🚀 저에 대하여
-- 💻 **사용자 경험(UX)**을 가장 중요하게 여기며 주도적으로 성장하는 개발자입니다.
-- ⚡ 비전공자로 시작했으나 공식 문서 기반의 디버깅 습관으로 탄탄한 에러 해결 능력을 갖췄습니다.
-- 🛠️ 현재 리액트 기반의 공간 대여 플랫폼 **'MEMBERS'** 프로젝트를 개발 중입니다.
+### 🚀 저에 대하여
+* 💻 **UX 중심 설계** : 단순 기능 구현을 넘어, 사용자가 마주하는 직관적인 UI와 매끄러운 화면 흐름을 치열하게 고민합니다.
+* ⚡ **주도적 문제 해결** : 비전공자로 시작했으나 에러 로그를 분석하고 공식 문서를 파고드는 탄탄한 디버깅 습관을 갖췄습니다.
+* 🛠️ **현재 프로젝트** : 리액트(React) 기반의 공간 대여 플랫폼 **'MEMBERS'** 프로젝트를 주도적으로 개발하고 있습니다.
 
-## 🛠️ 기술 스택
-<p align="left">
-  <img src="https://shields.io" />&nbsp;
-  <img src="https://shields.io" />&nbsp;
-  <img src="https://shields.io" />&nbsp;
-  <img src="https://shields.io" />&nbsp;
-  <img src="https://shields.io" />
-</p>
+---
 
-## 📈 GitHub 통계
-<p align="left">
-  <img src="https://herokuapp.com" width="400" />
-</p>
+### 🛠️ 기술 스택 (Tech Stacks)
+
+
+| 분류 | 보유 기술 및 도구 |
+| :--- | :--- |
+| **Frontend** | `JavaScript (ES6+)` , `React.js` , `HTML5` , `CSS3` |
+| **Tools** | `Git` , `GitHub` |
+
+---
+
+### 📈 GitHub 활동
+* 🌿 **주요 활동** : 기능 단위 브랜치 관리 및 지속적인 커밋(Commit)을 통해 코드를 체계적으로 기록하고 있습니다.
+* 🔍 **코드 분석** : 작성한 모든 코드는 유지보수성과 컴포넌트 재사용성을 고려하여 설계합니다.
 
 
