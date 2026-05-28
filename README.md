@@ -1,5 +1,6 @@
 # majuhyun
-# 👋 안녕하세요, 프론트엔드 개발자 마주현입니다!
+# l.app)
+👋 안녕하세요, 프론트엔드 개발자 마주현입니다!
 
 <p align="center">
   <!-- 방문자 수 카운터 -->
@@ -15,4 +16,4 @@
 <img src="https://shields.io"> <img src="https://shields.io"> <img src="https://shields.io"> <img src="https://shields.io"> <img src="https://shields.io">
 
 ## 📈 GitHub Stats
-![Anurag's GitHub stats](https://vercel.app)
+![Anurag's GitHub stats](https://verce
