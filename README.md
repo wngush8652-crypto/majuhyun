@@ -16,13 +16,11 @@
 
 | 분류 | 보유 기술 및 도구 |
 | :--- | :--- |
-| **Frontend** | `HTML5` , `CSS3` , `JavaScript (ES6+)` , `React.js` |
-| **Tools** | `Git` , `GitHub` |
+| **Frontend** | • `HTML5`<br>• `CSS3`<br>• `JavaScript (ES6+)`<br>• `React.js` |
+| **Tools** | • `Git`<br>• `GitHub` |
 
 ---
 
 ### 📈 GitHub 활동
 * 🌿 **주요 활동** : 기능 단위 브랜치 관리 및 지속적인 커밋(Commit)을 통해 코드를 체계적으로 기록하고 있습니다.
 * 🔍 **코드 분석** : 작성한 모든 코드는 유지보수성과 컴포넌트 재사용성을 고려하여 설계합니다.
-
-
