@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # IT'S ME
@@ -6,7 +7,11 @@
 <br>
 
 ## 💭 나에 대해서.. 💭
-` Role ` **Frontend Developer** &nbsp;&nbsp;&nbsp;&nbsp; ` Status ` **Growing Actively**
+
+
+
+| `  Role  ` | **Frontend Developer** | &nbsp;&nbsp;&nbsp;&nbsp; | ` Status ` | **Growing Actively** |
+| :---: | :---: | :---: | :---: | :---: |
 
 <br>
 
