@@ -16,8 +16,8 @@
 
 | 분류 | 보유 기술 및 도구 |
 | :--- | :--- |
-| **Frontend** | • `HTML5`<br>• `CSS3`<br>• `JavaScript (ES6+)`<br>• `React.js` |
-| **Tools** | • `Git`<br>• `GitHub` |
+| **Frontend** | `HTML5` / `CSS3` / `JavaScript` / `React.js` |
+| **Tools** | `Git` / `GitHub` |
 
 ---
 
